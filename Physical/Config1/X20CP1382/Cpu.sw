@@ -7,5 +7,6 @@
   <TaskClass Name="Cyclic#4">
     <Task Name="Program" Source="Program.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="programJak" Source="programJakuba.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="Magda" Source="Magda.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
 </SwConfiguration>
