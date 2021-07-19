@@ -2,3 +2,7 @@
 TYPE
 
 END_TYPE
+
+TYPE
+
+END_TYPE
