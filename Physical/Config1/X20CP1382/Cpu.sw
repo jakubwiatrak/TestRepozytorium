@@ -8,5 +8,9 @@
     <Task Name="Program" Source="Program.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="magdaprogr" Source="magdaprogram.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="jeszczejed" Source="jeszczejedenprogram.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="ProgramJak" Source="ProgramJakubaWiatraka.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="programJa1" Source="programJakubaWiatrak.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="programJak" Source="programJakuba.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="Magda" Source="Magda.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
 </SwConfiguration>

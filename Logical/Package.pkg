@@ -8,5 +8,7 @@
     <Object Type="Program" Language="IEC">Program</Object>
     <Object Type="Program" Language="IEC">magdaprogram</Object>
     <Object Type="Program" Language="IEC">jeszczejedenprogram</Object>
+    <Object Type="Program" Language="IEC">programJakuba</Object>
+    <Object Type="Program" Language="IEC">Magda</Object>
   </Objects>
 </Package>
