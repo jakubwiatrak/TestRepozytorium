@@ -6,6 +6,7 @@ END_PROGRAM
 
 PROGRAM _CYCLIC
 	(* Insert code here *)
+	//komentuje se program
 	 //robie se program
 END_PROGRAM
 
