@@ -12,5 +12,6 @@
     <Task Name="programJa1" Source="programJakubaWiatrak.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="programJak" Source="programJakuba.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="Magda" Source="Magda.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="kolejnypro" Source="kolejnyprogram.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
 </SwConfiguration>
